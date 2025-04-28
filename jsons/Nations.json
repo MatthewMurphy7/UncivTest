@@ -1,4 +1,4 @@
-[
+e[
 	{
 		"name": "UNSC",
 		"leaderName": "Captain Halsey",
@@ -6,8 +6,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "ZWe come in peace!!",
+		"startIntroPart2": "ZThis is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
