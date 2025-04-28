@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Breeders",
-		"replaces": "Aqueduct",
+		"replaces": "Monument",
 		"uniqueTo": "Aliens",
 		"cost": 80,
 		"hurryCostModifier": 160,
