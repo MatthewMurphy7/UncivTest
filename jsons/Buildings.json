@@ -1,25 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Slaves",
+		"replaces": "Monument",
+		"uniqueTo": "UNSC",
+		"cost": 1,
+		"production": 1000,
+		"food": 100,
+		"happiness": 1000,
+		"culture": 1000,
+		"science": 1000,
+		"gold": 1000,
+		"specialistSlots": {"Artist": 3, "Merchant": 3, "Engineer": 3, "Scientist": 3},
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
 	}
 ]
