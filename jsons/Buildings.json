@@ -4,14 +4,5 @@
 		"replaces": "Monument",
 		"uniqueTo": "UNSC",
 		"cost": 1,
-		"production": 1000,
-		"food": 100,
-		"faith": 1000,
-		"happiness": 1000,
-		"culture": 1000,
-		"science": 1000,
-		"gold": 1000,
-		"specialistSlots": {"Artist": 3, "Merchant": 3, "Engineer": 3, "Scientist": 3},
-		"isNationalWonder": true,
 	}
 ]
