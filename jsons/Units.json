@@ -1,16 +1,14 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"unitType": "Gunpowder",
+		"uniqueTo": "UNSC",
+		"replaces": "Mechanized Infantry",
+		"movement": 5,
+		"strength": 140,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredTech": "Mobile Tactics",
+		"uniques": [["[+200]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
